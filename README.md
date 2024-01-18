@@ -31,7 +31,6 @@
 （2）elif m in {GatherExcite}:
     args =[ch[f],*args]
 
-5、test运行一下 报什么错 对应debug# ultralytics_cs
-# ultralytics_cs
-# ultralytics_cs
-# ultralytics_cs
+5、test运行一下 报什么错 对应debug
+
+
