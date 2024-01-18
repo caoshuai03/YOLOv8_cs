@@ -22,6 +22,7 @@
 ----在ultralytics/nn/tasks.py 添加名字
 
 4、在ultralytics/nn/tasks.py添加配置
+
 （1）elif m in {CBAM}:
         c1, c2 = ch[f], args[0]
         if c2 != nc:
